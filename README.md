@@ -1,7 +1,9 @@
 Task Management System
+
 A Task Management System is a web application developed using Java, SpringMVC, MySQL, jsp, HTML, CSS, Bootstrap, and Thymeleaf. It provides users with the ability to manage tasks categorized into work, personal, and shopping lists.
 
 Features
+
 CRUD Operations: Users can create, read, update, and delete tasks effortlessly.
 Filtering by Name: Easily search and filter tasks by their name.
 Filtering by Category: Tasks are categorized into work, personal, and shopping, enabling users to filter tasks by their respective categories.
